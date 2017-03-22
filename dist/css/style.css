@@ -1,0 +1,18 @@
+.btn-filestack {
+  background-color: #EE4632;
+  border-color: #EE4632;
+}
+.btn-filestack, .btn-filestack:hover {
+  color: #FFF;
+}
+.btn-filestack:hover {
+  background-color: #db2812;
+}
+h1 {
+  display: inline;
+}
+.ascii-check {
+  display: inline-block;
+  margin-left: 2em;
+  color: #EE4632;
+}
